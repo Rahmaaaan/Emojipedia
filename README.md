@@ -3,7 +3,7 @@
 
 ## Technologies Used
 
-The technologies and tools were used to develop this project are reactJS & JdavaScript
+The technologies and tools were used to develop this project are reactJS & JavaScript
 
 ## Getting Started
 
