@@ -1,5 +1,6 @@
 # Emojipedia
 
+Emojipedia is your go-to resource for emojis, providing a thorough compilation with each emoji accompanied by a detailed name and description. Whether you're a casual user seeking to grasp the significance of a particular emoji or a developer in need of precise information for seamless emoji integration, Emojipedia is your one-stop solution.
 
 ## Technologies Used
 
