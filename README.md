@@ -51,9 +51,9 @@ Make sure you have the following requirements met:
 
 ## Screenshots
 
-![Home Page](./pictures/Home%20page.PNG)
+![Page - 1](./assests/pictures/PageOne.jpg)
 
-![Sort Page](./pictures/Sort%20page.PNG)
+![Page - 2](./assests/pictures/PageTwo.jpg)
 
 ## Contributing
 
